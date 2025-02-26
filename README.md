@@ -5,4 +5,4 @@ A PyTorch version of the Self-Oscillatory Echo State Network (SO-ESN). SO-ESN ge
 Just paste the code to your PyCharm and run... 
 
 # Results
-
+![GIF](esn_oscillation.gif)
